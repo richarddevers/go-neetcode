@@ -1,4 +1,4 @@
-package duplicate
+package aaa
 
 import "testing"
 
